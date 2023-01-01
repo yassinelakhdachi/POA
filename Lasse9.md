@@ -33,7 +33,7 @@ thread.start;
 ### Méthodes relatives au Thread:
 Il existe plusieurs méthodes qui manipule le thread. En effet il la figure ci-dessous résume tout celà.
 
-<img src="Screen Shot 2021-01-15 at 06.22.21.png" width="800" height="300"/>
+<img src="Threads_methods.png" width="800" height="300"/>
 
 *Les états:*
 
